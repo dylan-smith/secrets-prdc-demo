@@ -3,7 +3,7 @@
 Code Scanning Alerts & Dependency Alerts on non-default Branches
 
 test secret = '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'
-
+secret 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
 #### WebGoat 8: A deliberately insecure Web Application
 
 This is a copy of WebGoatm, a deliberately insecure web application maintained by [OWASP](http://www.owasp.org/) designed to teach web
